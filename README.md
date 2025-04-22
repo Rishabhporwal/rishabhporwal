@@ -1,49 +1,122 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [your role, e.g. Full-Stack Developer] from [your location]</h3>
+<h1 align="center">Hi 👋, I'm Rishabh Porwal</h1>
+<h3 align="center">🚀 Senior Software Engineer | 🔧 Backend & AI/ML Enthusiast | 🌍 Based in Dubai</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Backend+%7C+AI+%7C+Cloud+Developer;Distributed+Systems+%7C+ML+%7C+Node.js+%7C+Python;Open+Source+Contributor+%7C+Dubai+UAE" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💼 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology or Skill]**
-- 👯 I’m looking to collaborate on **Open Source/Interesting Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, etc.**
-- 📫 How to reach me: **[email@example.com]**
-- ⚡ Fun fact: **[Something interesting or unique about you]**
+- 💼 Currently working at **Emirates National Bank of Dubai**
+- 🧠 7+ years of experience in **backend development, AI/ML, and cloud-native architecture**
+- 🛠️ Specializing in **Node.js, Python, TypeScript, and scalable microservices**
+- 💡 Passionate about **predictive analytics, automation**, and building high-performance applications
+- 🤝 Open to collaboration on **AI/ML and distributed systems projects**
+- 📍 Based in **Dubai, UAE**
 
 ---
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+#### 🧑‍💻 Languages
+`Python`, `JavaScript`, `TypeScript`, `SQL`, `C++`
+
+#### 📊 ML & Data Science
+`Pandas`, `NumPy`, `Sklearn`, `TensorFlow`, `PyTorch`, `Matplotlib`, `Seaborn`, `LangChain`, `NLP (NLTK, Spacy)`
+
+#### 🧱 Web & Backend
+`Node.js`, `Express.js`, `React`, `Redux`, `Flask`, `FastAPI`
+
+#### 💾 Databases
+`MongoDB`, `MySQL`, `Postgres`, `Redis`, `Pinecone`
+
+#### ☁️ Cloud & DevOps
+`AWS (Lambda, S3, EC2)`, `Azure`, `OpenShift`, `Docker`, `Kubernetes`, `Jenkins`, `Git`, `JIRA`
+
+#### 🔗 APIs & Integrations
+`REST APIs`, `3Scale`, `Apache Kafka`
+
+#### 🏗️ Architecture & Practices
+`Microservices`, `Monorepo`, `Event-Driven`, `Agile`, `Scrum`, `SDLC`
+
+#### 🧪 Testing & Monitoring
+`JEST`, `Playwright`, `AppDynamics`, `Grafana`, `Kibana`, `Elastic Stack (ELK)`
+
+---
+
+### 📂 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/Rishabhporwal/Sensor-Fault-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=Sensor-Fault-Detection&theme=radical" />
+  </a>
+  <a href="https://github.com/Rishabhporwal/P2P-Auction-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=P2P-Auction-System&theme=radical" />
+  </a>
+  <a href="https://github.com/Rishabhporwal/Weather-API-Wrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=Weather-API-Wrapper&theme=radical" />
+  </a>
+  <a href="https://github.com/Rishabhporwal/image-processing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=image-processing&theme=radical" />
+  </a>
+  <a href="https://github.com/Rishabhporwal/category-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=category-management-system&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhporwal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhporwal&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rishabhporwal&theme=tokyo-night" />
+</p>
+
+---
+
+### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourtwitter" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/rishabhporwal/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishabhporwal95@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/rrishabhporwal/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.kaggle.com/rrishabhporwal">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### 💬 Fun Fact
+
+> I automate things for fun and find bugs faster than QA 😎
+
+---
+
+### 💡 Currently Exploring
+
+- 🧠 Generative AI and LangChain
+- 🧩 Real-time systems using Kafka & Redis
+- 📦 LLMOps and model versioning with MLflow
+
+---
+
+If you like what I do, maybe give a ⭐ to my repos and let's connect!
+
