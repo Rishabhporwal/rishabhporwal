@@ -32,7 +32,7 @@
 `Python`, `JavaScript`, `TypeScript`, `SQL`, `C++`
 
 #### 📊 ML & Data Science
-`Pandas`, `NumPy`, `Sklearn`, `TensorFlow`, `PyTorch`, `Matplotlib`, `Seaborn`, `LangChain`, `NLP (NLTK, Spacy)`
+`TensorFlow`, `PyTorch`, `Pandas`, `NumPy`, `Sklearn`,  `Matplotlib`, `Seaborn`, `LangChain`, `NLP (NLTK, Spacy)`
 
 #### 🧱 Web & Backend
 `Node.js`, `Express.js`, `React`, `Redux`, `Flask`, `FastAPI`
@@ -41,7 +41,7 @@
 `MongoDB`, `MySQL`, `Postgres`, `Redis`, `Pinecone`
 
 #### ☁️ Cloud & DevOps
-`AWS (Lambda, S3, EC2)`, `Azure`, `OpenShift`, `Docker`, `Kubernetes`, `Jenkins`, `Git`, `JIRA`
+`AWS`, `Azure`, `OpenShift`, `Docker`, `Kubernetes`, `Jenkins`, `Git`, `JIRA`
 
 #### 🔗 APIs & Integrations
 `REST APIs`, `3Scale`, `Apache Kafka`
@@ -54,46 +54,6 @@
 
 ---
 
-
-### 📂 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/Rishabhporwal/Sensor-Fault-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=Sensor-Fault-Detection&theme=radical" />
-  </a>
-  <a href="https://github.com/Rishabhporwal/P2P-Auction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=P2P-Auction-System&theme=radical" />
-  </a>
-  <a href="https://github.com/Rishabhporwal/Weather-API-Wrapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=Weather-API-Wrapper&theme=radical" />
-  </a>
-  <a href="https://github.com/Rishabhporwal/image-processing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=image-processing&theme=radical" />
-  </a>
-  <a href="https://github.com/Rishabhporwal/category-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhporwal&repo=category-management-system&theme=radical" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhporwal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhporwal&theme=tokyonight" />
-</p>
-
----
-
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhporwal&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 💬 Fun Fact
 
 > I automate things for fun and find bugs faster than QA 😎
@@ -102,9 +62,9 @@
 
 ### 💡 Currently Exploring
 
-- 🧠 Generative AI and LangChain
+- 🧠 Generative AI and Agentic AI
 - 🧩 Real-time systems using Kafka & Redis
-- 📦 LLMOps and model versioning with MLflow
+- 📦 LLMOps and model versioning
 
 ---
 
