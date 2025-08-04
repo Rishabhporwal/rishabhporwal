@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Porwal</h1>
-<h3 align="center">🚀 Senior Software Engineer | 🔧 Backend Specialist | 🧠 AI/ML Enthusiast | 🌍 Based in Dubai</h3>
+<h3 align="center">🚀 Senior Software Engineer | 🔧 Backend Specialist | 🧠 Data Scientist | 🌍 Based in Dubai</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Backend+%7C+AI+%7C+Cloud+Developer;Open+Source+Contributor;Distributed+Systems+%7C+Node.js;Gen+AI+%7C+ML/DL+%7C+Python" alt="Typing SVG" />
